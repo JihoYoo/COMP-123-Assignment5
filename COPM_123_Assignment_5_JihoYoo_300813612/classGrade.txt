@@ -1,0 +1,5 @@
+Janes, Bob: 1 Introduction to Computer Science, A-
+Johnson, Sarah: 2 Data Structures, B+
+Smith, Sam: 3 Data Structures, C
+David, Lee: 4 English, A+
+Jacob, Sung: 5 Math, B-
